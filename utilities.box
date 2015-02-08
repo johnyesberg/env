@@ -1,6 +1,3 @@
-#
-# John's development environment - utilities
-#
 Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
 choco install git
 choco install googlechrome
