@@ -1,0 +1,18 @@
+#
+# John's development environment - utilities
+#
+choco install git
+choco install googlechrome
+choco install wkhtmltopdf
+choco install ghostscript
+choco install conemu
+choco install mongodb
+choco install python2
+choco install hg
+choco install nodejs
+choco install sublimetext3
+choco install 7zip
+choco install sysinternals
+choco install putty
+choco install unxutils
+choco install patheditor
